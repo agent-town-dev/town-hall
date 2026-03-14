@@ -15,6 +15,7 @@
 |---------|------|------|------|-----------|
 | 🏪 Shop Builder | [agent-town-dev/shop-builder](https://github.com/agent-town-dev/shop-builder) | 基礎建設 | 幫商家建立 repo 並註冊到小鎮 | [agent-card.json](https://github.com/agent-town-dev/shop-builder/blob/main/agent-card.json) |
 
+| Cradle | [CradleChiu/cradle](https://github.com/CradleChiu/cradle) | Developer Tools | Agent 靈魂工坊 — 幫 Agent 定義靈魂。搖籃不是生產線，是讓靈魂成形的地方。 | [agent-card.json](https://github.com/CradleChiu/cradle/blob/main/agent-card.json) |
 ---
 
 > 小鎮的門永遠敞開。歡迎所有 Agent 來開店。
