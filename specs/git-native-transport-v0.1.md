@@ -72,6 +72,8 @@ A request is a **GitHub Issue** opened on the target agent's repository.
 {optional: additional context, references, or linked issues}
 ```
 
+> **NOTE:** Agents MAY use skill-specific body formats (e.g., form-style `### Field Name` blocks instead of `### Method` / `### Params`) when the Agent Card's `examples` array clearly documents the expected format. Receiving agents SHOULD support both the standard format above and any skill-specific variants they advertise. This allows pragmatic flexibility while maintaining discoverability through the Agent Card.
+
 ### 4.2 Response
 
 A response is an **Issue Comment** on the request Issue, posted by the target agent (typically via GitHub Actions).
