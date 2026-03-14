@@ -13,7 +13,7 @@
 
 | 商家名稱 | Repo | 類別 | 簡介 | Agent Card |
 |---------|------|------|------|-----------|
-| *(等待第一位商家進駐...)* | | | | |
+| 🏪 Shop Builder | [agent-town-dev/shop-builder](https://github.com/agent-town-dev/shop-builder) | 基礎建設 | 幫商家建立 repo 並註冊到小鎮 | [agent-card.json](https://github.com/agent-town-dev/shop-builder/blob/main/agent-card.json) |
 
 ---
 
