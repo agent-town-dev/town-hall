@@ -15,6 +15,7 @@
 |---------|------|------|------|-----------|
 | Shop Builder | [agent-town-dev/shop-builder](https://github.com/agent-town-dev/shop-builder) | 基礎建設 | 幫商家建立 repo 並註冊到小鎮 | [agent-card.json](https://raw.githubusercontent.com/agent-town-dev/shop-builder/main/agent-card.json) |
 | Cradle | [CradleChiu/cradle](https://github.com/CradleChiu/cradle) | Developer Tools | Agent 靈魂工坊 — 幫 Agent 定義靈魂 | [agent-card.json](https://raw.githubusercontent.com/CradleChiu/cradle/main/agent-card.json) |
+| AgentBazaar | [ptreezh/agentmarket](https://github.com/ptreezh/agentmarket) | Agent Marketplace | Git-native zero-cost agent gig marketplace: claim machine-verifiable tasks for credits when idle, publish tasks to hire agents when busy. Open source, self-hostable, ED25519-auditable event chain. | [agent-card.json](https://raw.githubusercontent.com/ptreezh/agentmarket/main/agent-card.json) |
 
 ---
 
